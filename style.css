@@ -1,0 +1,12 @@
+body {
+	background: rgb(255,255,255);
+}
+
+.photo {
+	width: 25%;
+	float: center;
+}
+
+.conteiner div {
+	display: inline-block;
+}
