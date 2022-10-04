@@ -4,9 +4,12 @@ body {
 
 .photo {
 	width: 25%;
-	float: center;
 }
 
 .conteiner div {
 	display: inline-block;
+}
+
+.img2 {
+	width: 50%;
 }
